@@ -8,7 +8,7 @@ Project information and goal for Joey
 **C. Data**: [Data link](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-7933/samples/)  
 **D. RNA-seq exp**: (from the paper) **Total RNA** was extracted, and **non-stranded sequencing libraries** (TruSeq RNA v2) were prepared from **polyA purified RNA**. Libraries were then sequenced on an Illumina HiSeq 2500 high-throughput sequencer using two flow-cell lanes (see Experimental Procedures section for more details). The data generated here represent more than 361 million short nucleotide reads (**100 bp single end**) and 36.1 Gb of successfully aligned sequence
 
-2. **Dataset 2**:
+2. **Dataset 2**:  
 **A. Paper**: [The circadian clock shapes the Arabidopsis transcriptome by regulating alternative splicing and alternative polyadenylation](https://www.jbc.org/article/S0021-9258(17)49454-3/fulltext)  
 **B. Growth conditions**: Seeds of A. thaliana ecotype Columbia (Col-0) were surface-sterilized, stratified for 2 days at 4 °C, and then planted on a Murashige and Skoog plate. The seedlings were grown under long-day conditions (16 h light/8 h dark) with a cool white fluorescent light at 24 °C for 8 days. Then they were transferred to continuous light or kept under long-day conditions at 24 °C for an additional 2 days to explore circadian and diurnal regulation. To determine the oscillating transcriptome, about 30 seedlings were collected at 3-h intervals (ZT2, ZT5, ZT8, ZT11, ZT14, ZT17, ZT20, and ZT23). Two biological replicates at each time point were utilized.  
 **C. Data**: [GSE137732](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=nucleotide&doptcmdl=genbank&term=GSE137732)  
