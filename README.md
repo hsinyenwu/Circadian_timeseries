@@ -21,3 +21,7 @@ Project information and goal for Joey
 4. Use the TPM value from Kallisto for running [JTK cycle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3119870/)  
 5. Write a R Shiny app for presenting the result  
 6. Create a GitHub page  
+
+### More readings:
+1. [A guiding role of the Arabidopsis circadian clock in cell differentiation revealed by time-series single-cell RNA sequencing. Cell Reports 2022](https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(22)00857-9)
+2. [Contribution of time of day and the circadian clock to the heat stress responsive transcriptome in Arabidopsis. Scientific Reports 2019](https://www.nature.com/articles/s41598-019-41234-w)
