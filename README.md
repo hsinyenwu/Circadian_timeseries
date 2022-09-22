@@ -15,9 +15,9 @@ Project information and goal for Joey
 **D. RNA-seq exp**: Total RNA from seedlings collected at different time points was isolated using the RNeasy Plant Mini Kit (Qiagen) and treated with the Turbo DNA-free Kit (Invitrogen) following the manufacturer's instructions. Library preparation and strand-specific paired-end sequencing (2 × 150 bp) on a HiSeq 4000 platform (Illumina) were performed by Novogene.  
 
 ### Procedures:
-1. Download the data
-2. Remove adaptor
-3. Map reads to transcriptome with Kallisto
-4. Use the TPM value from Kallisto for running [JTK cycle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3119870/)
-5. Write a R Shiny app for presenting the result
-
+1. Download the data  
+2. Remove adaptor  
+3. Map reads to transcriptome with Kallisto  
+4. Use the TPM value from Kallisto for running [JTK cycle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3119870/)  
+5. Write a R Shiny app for presenting the result  
+6. Create a GitHub page  
