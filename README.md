@@ -5,3 +5,12 @@ Project information and goal for Joey
 [Global transcriptome analysis reveals circadian control of splicing events in Arabidopsis thaliana. Plant Journal 2020](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14776)  
 [Data link](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-7933/samples/)
 
+Exp (from the paper): **Total RNA** was extracted, and **non-stranded sequencing libraries** (TruSeq RNA v2) were prepared from **polyA purified RNA**. Libraries were then sequenced on an Illumina HiSeq 2500 high-throughput sequencer using two flow-cell lanes (see Experimental Procedures section for more details). The data generated here represent more than 361 million short nucleotide reads (**100 bp single end**) and 36.1 Gb of successfully aligned sequence
+
+Procedure:
+1. Download the data
+2. Remove adaptor
+3. Map reads to transcriptome with Kallisto
+4. Use the TPM value from Kallisto for running [JTK cycle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3119870/)
+5. Write a R Shiny app for presenting the result
+
