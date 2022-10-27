@@ -16,7 +16,7 @@ Project information and goal for Joey
 
 ### Procedures:
 1. Download the data  
-2. Remove adaptor and rRNA/tRNA/snRNA/snoRNA contamination 
+2. Remove adaptor (with fastx toolkit) and rRNA/tRNA/snRNA/snoRNA contamination 
 3. Map reads to transcriptome with Kallisto  
 4. Use the TPM value from Kallisto for running [JTK cycle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3119870/)  
 5. Write a R Shiny app for presenting the result  
